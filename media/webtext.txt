@@ -1,0 +1,198 @@
+﻿
+
+
+
+Bowle – Wikipedia
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bowle","wgTitle":"Bowle","wgCurRevisionId":165237124,"wgRevisionId":165237124,"wgArticleId":165018,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Weinmischgetränk","Cocktailgruppe","Alkoholfreies Getränk","Zubereitung kalter Getränke"],"wgBreakFrames":false,"wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgMonthNamesShort":["","Jan.","Feb.","Mär.","Apr.","Mai","Jun.","Jul.","Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Bowle","wgRelevantArticleId":165018,"wgRequestId":"XBw@rQpAAD0AAFPUbRUAAAAR","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":165237124,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgULSCurrentAutonym":"Deutsch","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q357109","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1wzrrbt",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"de"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.editMenus","ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap","ext.gadget.CommonsDirekt","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Bowle 
+aus Wikipedia, der freien Enzyklopädie 
+ Zur Navigation springen
+Zur Suche springen
+ Fruchtbowlen
+Mit Bowle bezeichnet man ein kaltes, aromatisches Mischgetränk, dessen Grundlage meist Weißwein bildet. Ein Beispiel ist die Maibowle mit dem typischen Aroma des  Waldmeisters. Oft werden dem Getränk aromatische Früchte beigemengt, welche nach entsprechender Einwirkzeit einen Großteil des Alkohols enthalten können. Es wird gewöhnlich aus einem Gefäß mit breiter Öffnung mit einer Schöpfkelle in Trinkbecher ausgeschenkt. Das Gefäß wird ebenfalls als Bowle bezeichnet. 
+
+Inhaltsverzeichnis
+
+1 Geschichte
+2 Bowle-Varianten
+3 Kühlen und Servieren
+4 Siehe auch
+5 Weblinks
+6 Einzelnachweise
+
+
+Geschichte[Bearbeiten | Quelltext bearbeiten]
+ Historisches Bowle-Service der Neorenaissance und des Jugendstils der Firma Villeroy & Boch (Mettlach) auf einer Anrichte des Historismus
+ Ludwig von Zumbusch (1861–1927): Fröhliche Gesellschaft mit Bowle im Stil des Biedermeier
+Die Bezeichnung wurde im 18. Jahrhundert dem englischen „bowl“ = Napf entlehnt, das wiederum auf den altenglischen Ausdruck „bolla“ = Schale zurückgeht. Heute stellt „Schüssel“ die gängigste Übersetzung für den Begriff dar. Im 19. Jahrhundert wurde eine der heute beliebtesten Bowlen, die auf Waldmeister basierende Maibowle, entwickelt. Die erste Bowle wurde wahrscheinlich viel früher serviert, das legt zumindest ein Buchfund aus der Klosterbibliothek zu Fulda nahe. In einer Schrift von 1417 wird ein Getränk erwähnt, das aus Wein, Rosenblüten, Fichtennadeln und Honig besteht und in einem Bowle-ähnlichen Gefäß serviert wurde.[1] Die Bowle erfreute sich vor allem während der 1950er bis 1970er Jahre großer Beliebtheit als Partygetränk.
+
+Bowle-Varianten[Bearbeiten | Quelltext bearbeiten]
+Es gibt zahlreiche verschiedene Rezepte und Varianten der Bowle. Der Weißwein wird mit Saft, Limonaden oder mit Sekt aufgegossen. Andere Spirituosen wie Rum können zur Verfeinerung der Bowle hinzugegeben werden. Anstatt des Weißweins wird manchmal auch Rotwein verwendet. Daneben gibt es Bowle-Varianten ohne Alkohol, die sich auch für Kinder eignen. Für den Geschmack sorgen Früchte und Kräuter, bei manchen Rezepten auch Eiscreme.
+Eine Bowle wird immer kalt serviert, manchmal auch durch Zugabe von Eiswürfeln. Ein heißes Mixgetränk aus Alkohol, Früchten  oder Gewürzen, das in einem bowleähnlichen Gefäß serviert wird, nennt man Punsch. Das bekannteste Beispiel ist die Feuerzangenbowle. Im außerdeutschen Kulturkreis wird allerdings meist nicht zwischen Punsch und Bowle unterschieden.
+Während für die Früchte in der Bowle in den meisten Regionen Deutschlands kein eigener Namen existiert, ist im Rheinland der Begriff „Möppchen“ (gesprochen: Möppschen) eine weit verbreitete Bezeichnung. Die Möppchen werden meist einen Tag vorher in den Alkohol eingelegt und saugen daher viel Alkohol auf, so dass der reine Verzehr der Möppchen vom Alkoholgehalt dem Trinken der Bowle gleichkommt.
+
+Kühlen und Servieren[Bearbeiten | Quelltext bearbeiten]
+ Bowle-Ei
+Damit die Bowle an heißen Sommertagen kalt bleibt, kann man ein spezielles Bowlengefäß verwenden, das die Bowle von außen mit Eis kühlt. Dieses Spezialgefäß wurde für die „Kalte Ente“, eine Bowle aus Wein, Sekt und Zitronen, entwickelt.[1] Häufig werden Eiswürfel aus geschmacklich passendem, gefrorenen Fruchtsaft oder einem vorher eingefrorenen Teil der Bowle zum Kühlen verwendet. Das so genannte Bowlen-Ei, ein mit Eis zu füllendes Behältnis, das die angesetzte Bowle auf kühler Trinktemperatur hält, ohne diese zu verwässern, ist eine Möglichkeit. 
+Serviert wird die Bowle meist in typischen, ebenfalls dickbauchigen Gläsern oder Keramikbechern, die zu einem Set mit dem Bowlegefäß gehören. Kleine Bowlespieße dienen dazu, die Fruchtstücke aus der Flüssigkeit zu holen. Bowlespieße aus Metall können die Form kleiner Gabeln haben. Es gibt auch einzinkige Spieße aus Kunststoff.
+
+Siehe auch[Bearbeiten | Quelltext bearbeiten]
+Sangria
+Weblinks[Bearbeiten | Quelltext bearbeiten]
+ Wiktionary: Bowle – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+ Commons: Bowle – Sammlung von Bildern, Videos und Audiodateien
+Einzelnachweise[Bearbeiten | Quelltext bearbeiten]
+
+↑ a b Bowle-Revival
+
+
+
+
+
+ 
+						Abgerufen von „https://de.wikipedia.org/w/index.php?title=Bowle&oldid=165237124“					
+Kategorien: WeinmischgetränkCocktailgruppeAlkoholfreies GetränkZubereitung kalter Getränke 
+
+
+
+Navigationsmenü
+
+
+Meine Werkzeuge
+
+Nicht angemeldetDiskussionsseiteBeiträgeBenutzerkonto erstellenAnmelden 
+
+
+
+Namensräume
+
+ArtikelDiskussion 
+
+
+
+
+Varianten
+
+
+
+
+
+
+
+Ansichten
+
+LesenBearbeitenQuelltext bearbeitenVersionsgeschichte 
+
+
+
+Mehr
+
+
+
+
+
+Suche
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+HauptseiteThemenportaleZufälliger Artikel 
+
+
+
+Mitmachen
+
+
+Artikel verbessernNeuen Artikel anlegenAutorenportalHilfeLetzte ÄnderungenKontaktSpenden 
+
+
+
+Werkzeuge
+
+
+Links auf diese SeiteÄnderungen an verlinkten SeitenSpezialseitenPermanenter LinkSeiten­informationenWikidata-DatenobjektArtikel zitieren 
+
+
+
+Drucken/­exportieren
+
+
+Buch erstellenAls PDF herunterladenDruckversion 
+
+
+
+In anderen Sprachen
+
+
+BoarischEsperantoEspañolLietuviųNedersaksiesPolskiРусскийУкраїнська 
+Links bearbeiten 
+
+
+
+
+
+ Diese Seite wurde zuletzt am 5. Mai 2017 um 18:44 Uhr bearbeitet.
+Abrufstatistik
+Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+
+Datenschutz
+Über Wikipedia
+Impressum
+Entwickler
+Stellungnahme zu Cookies
+Mobile Ansicht
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.068","walltime":"0.102","ppvisitednodes":{"value":121,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":910,"limit":2097152},"templateargumentsize":{"value":96,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":534,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   61.419      1 -total"," 70.00%   42.995      2 Vorlage:Lang","  6.46%    3.969      1 Vorlage:Commons","  5.57%    3.422      1 Vorlage:Wiktionary"]},"scribunto":{"limitreport-timeusage":{"value":"0.013","limit":"10.000"},"limitreport-memusage":{"value":851094,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20181221011525","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":231,"wgHostname":"mw1266"});});
+
+

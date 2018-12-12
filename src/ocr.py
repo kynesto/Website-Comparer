@@ -4,7 +4,7 @@ import pytesseract
 class Image2Text:
     # Grabs the text on the image, also sharpens the image beforehand
 
-    def convert(self, PathToImage):
+    def get(self, PathToImage):
 
         #Read image
         im = Image.open(PathToImage)
